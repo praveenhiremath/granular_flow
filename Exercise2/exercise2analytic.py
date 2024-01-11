@@ -10,6 +10,15 @@ from sympy import *
 from sympy.abc import y
 
 
+'''
+This code was generated to fulfill the requirements for the course Continuum Mechanics FMEN21.
+This code is not to be used by others for University submission. However, the code can be used to understand the assignment.
+
+Author: Praveenkumar Hiremath
+Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+       praveenkumar.hiremath2911@gmail.com (Private email)
+'''
+
 h=0.3
 # L, A, B, C and D values are obtained from exercise1 
 L=6
