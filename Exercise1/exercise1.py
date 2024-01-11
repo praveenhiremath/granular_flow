@@ -8,7 +8,14 @@ import scipy
 import os
 from proj_functions import *
 
+'''
+This code was generated to fulfill the requirements for the course Continuum Mechanics FMEN21.
+This code is not to be used by others for University submission. However, the code can be used to understand the assignment.
 
+Author: Praveenkumar Hiremath
+Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+       praveenkumar.hiremath2911@gmail.com (Private email)
+'''
 
 curve1=np.loadtxt('solid_line.dat')
 curve2=np.loadtxt('dotted_line.dat')
